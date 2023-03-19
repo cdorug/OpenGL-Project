@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Programming\GP\Project\SemesterProject\main.cpp(169,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Programming\GP\Project\SemesterProject\main.cpp(170,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Programming\GP\Project\SemesterProject\main.cpp(174,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Programming\GP\Project\SemesterProject\main.cpp(175,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Programming\GP\Project\SemesterProject\main.cpp(176,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Programming\GP\Project\SemesterProject\main.cpp(177,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OpenGL.vcxproj -> C:\Programming\GP\Project\SemesterProject\x64\Debug\OpenGL.exe
